@@ -1,0 +1,8 @@
+- [x] Enhance login with dimensional effects and animated feature icons.
+- [x] Enhance portal navigation and content with consistent depth and motion.
+- [x] Verify login and signed-in portal views.
+- [x] Add green-and-gold brand color and a distinctive animated login presentation.
+- [x] Verify login-button animation and successful sign-in.
+- [x] Add the uploaded deity picture to the login left panel.
+- [x] Hide the "Edit with Lovable" badge.
+- [x] Verify login layout at 768/890/1024/1280/390 and the sign-in flow.
